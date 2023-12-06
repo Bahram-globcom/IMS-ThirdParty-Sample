@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "JCfL6oxrtXjttbVJeQB0xvniP/qaxe2cMJYNo98lV0M=",
+  "Source": "ThirdPartySample",
+  "BasePath": "_content/ThirdPartySample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ThirdPartySample\\wwwroot",
+      "Source": "ThirdPartySample",
+      "ContentRoot": "D:\\Repositories\\Globcom\\ThirdPartySample\\wwwroot\\",
+      "BasePath": "_content/ThirdPartySample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Repositories\\Globcom\\ThirdPartySample\\wwwroot\\favicon.ico",
+      "SourceId": "ThirdPartySample",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Repositories\\Globcom\\ThirdPartySample\\wwwroot\\",
+      "BasePath": "_content/ThirdPartySample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repositories\\Globcom\\ThirdPartySample\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ThirdPartySample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ThirdPartySample.props",
+      "PackagePath": "build\\ThirdPartySample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ThirdPartySample.props",
+      "PackagePath": "buildMultiTargeting\\ThirdPartySample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ThirdPartySample.props",
+      "PackagePath": "buildTransitive\\ThirdPartySample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
